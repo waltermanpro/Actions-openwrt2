@@ -42,7 +42,7 @@ rm -rf package/luci-app-amlogic
 rm -rf package/lean/luci-app-adguardhome
 git clone https://github.com/ophub/luci-app-amlogic.git package/luci-app-amlogic
 git clone https://github.com/rufengsuixing/luci-app-adguardhome package/lean/luci-app-adguardhome
-rm -rf package/feeds/packages/smartdns
-rm -rf package/feeds/luci/luci-app-smartdns
-git clone https://github.com/pymumu/smartdns package/feeds/packages/smartdns
-git clone https://github.com/pymumu/luci-app-smartdns package/feeds/luci/luci-app-smartdns
+#rm -rf package/feeds/packages/smartdns
+#rm -rf package/feeds/luci/luci-app-smartdns
+#git clone https://github.com/pymumu/smartdns package/feeds/packages/smartdns
+#git clone https://github.com/pymumu/luci-app-smartdns package/feeds/luci/luci-app-smartdns
